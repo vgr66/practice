@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 c hjsdkl  
  b  s
  cdgcj xco c 
    g j     ci d
    db n kcx d jc cjkdc
    cx  j c  iu k   cn
+=======
+hcbdn c n cx
+ cnb cj  c 
+ x j jc vch vc  jc ch jc  xc  
+    xc c 
+>>>>>>> 1.0.0
