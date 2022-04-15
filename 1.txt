@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 c hjsdkl  
  b  s
  cdgcj xco c 
@@ -10,4 +11,11 @@ hcbdn c n cx
  cnb cj  c 
  x j jc vch vc  jc ch jc  xc  
     xc c 
+>>>>>>> 1.0.0
+=======
+jcxbn c    n,   hcx c  m  c  cxb c x  c
+  k sbn cxsc   j c
+    bnc  cs
+     b j  
+      j bs dncb xc chx cn cxm 
 >>>>>>> 1.0.0
